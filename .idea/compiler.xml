@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="gov.usda.Section508_AccesseblityTest2" target="16" />
+      <module name="gov.usda.UITest" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
